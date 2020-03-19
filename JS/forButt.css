@@ -1,0 +1,39 @@
+.butt{
+	padding: 15px 25px;
+	border: 1px solid gray;
+	border-radius: 10px;
+	background: lightgray;
+	padding-left: 45px;
+}
+
+.butt1{
+	background: lightgray url("icons8-пушка-26.png") 10px no-repeat;
+}
+
+.butt2{
+	background: lightgray url("icons8-rpg-26.png") no-repeat 10px;
+}
+
+.butt3{
+	background: lightgray url("icons8-миномет-26.png") no-repeat 10px;
+}
+
+.butt4{
+	background: lightgray url("icons8-пулемет-гатлинга-26.png") no-repeat 10px;
+}
+
+.butt1:hover{
+	background: gray url("icons8-пушка-26.png") 10px no-repeat;
+}
+
+.butt2:hover{
+	background: gray url("icons8-rpg-26.png") no-repeat 10px;
+}
+
+.butt3:hover{
+	background: gray url("icons8-миномет-26.png") no-repeat 10px;
+}
+
+.butt4:hover{
+	background: gray url("icons8-пулемет-гатлинга-26.png") no-repeat 10px;
+}
